@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "857486893123",
+    "firebase_url": "https://annabel-1268.firebaseio.com",
+    "project_id": "annabel-1268",
+    "storage_bucket": "annabel-1268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857486893123:android:fa9823460a69cb14",
+        "android_client_info": {
+          "package_name": "com.edgewalk.annabel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857486893123-oa7otonarufj7qrbcegva7tur58ie85r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edgewalk.annabel",
+            "certificate_hash": "3b3df2ae4e462f5711b22a7bc7fe11c9acb5467f"
+          }
+        },
+        {
+          "client_id": "857486893123-rv5b59bntpju5kh8u8rkjj67ir7v1qlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edgewalk.annabel",
+            "certificate_hash": "b711e8f53decf5795bb2c065e6b6ff3d87d5bc3f"
+          }
+        },
+        {
+          "client_id": "857486893123-s638l3rep08dlagqouba3tnfjm0fg4uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edgewalk.annabel",
+            "certificate_hash": "e1fcb7e7b31af49cb19b28d43ec7b5a74a5e9291"
+          }
+        },
+        {
+          "client_id": "857486893123-sqa51p2dssv66qt8a9f59bppfreo784i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeqZ4lz25PV6hnaTratPLwDNgSLdi01qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857486893123-7lruu64qrf0qg3197tt4fpuvbuast7dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
